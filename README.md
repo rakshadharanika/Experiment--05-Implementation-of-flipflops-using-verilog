@@ -109,9 +109,65 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+Developed by: V RAKSHA DHARANIKA
+RegisterNumber: 23013260 
+
+
+
+
+
+### D FLIPFLOP:
+
+
+
+
+![Exp5 dfp code](https://github.com/rakshadharanika/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348380/3007c92b-443d-4c6c-9f36-295781a4aea1)
+
+
+
+
+
+### T FLIPFLOP:
+
+
+
+
+
+![Exp5 tfp code](https://github.com/rakshadharanika/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348380/48921cc0-5687-4569-90fc-5f1fc64fef75)
+
+
+
+
+
+
+### JK FLIPFLOP:
+
+
+
+
+
+
+![Exp5 jkfp code](https://github.com/rakshadharanika/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348380/6076bedf-4988-46d1-8527-3255f17109c9)
+
+
+
+
+
+
+
+### SR FLIPFLOP:
+
+
+
+
+
+
+
+
+![Exp5 srfp code](https://github.com/rakshadharanika/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348380/86d6f9b4-c914-4b2c-9c74-ea2e37bbb10c)
+
+
+
 
 
 
@@ -123,13 +179,152 @@ RegisterNumber:
 
 
 
+### D FLIPFLOP:
 
 
 
 
 
-### TIMING DIGRAMS FOR FLIP FLOPS 
 
+![Exp5 dfp RTL diagram](https://github.com/rakshadharanika/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348380/807131a9-a289-48af-a916-7c4467b19f5a)
+
+
+
+
+
+
+
+### T FLIPFLOP:
+
+
+
+
+
+![Exp5 tfp RTL diagram](https://github.com/rakshadharanika/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348380/99eaaa4a-7b3e-4285-8c60-f86d1d66d3c2)
+
+
+
+
+
+
+
+
+
+### JK FLIPFLOP:
+
+
+
+
+
+
+
+
+
+
+
+![Exp5 jkfp RTL diagram](https://github.com/rakshadharanika/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348380/35e5c661-c2e4-487a-a00b-e7312734cd4d)
+
+
+
+
+
+
+
+
+
+
+### SR FLIPFLOP:
+
+
+
+
+
+
+
+
+
+
+
+![Exp5 srfp RTL diagram](https://github.com/rakshadharanika/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348380/325b8b32-fb75-427f-ae70-f589172c500f)
+
+
+
+
+
+
+
+
+
+
+
+
+### TIMING DIGRAMS FOR FLIP FLOPS :
+
+
+
+
+
+
+
+### D FLIPFLOP:
+
+
+
+
+
+
+
+![d wave](https://github.com/rakshadharanika/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348380/118ee810-9517-4487-ad42-8c595ea357bf)
+
+
+
+
+
+
+
+
+### T FLIPFLOP:
+
+
+
+
+
+
+
+
+![t wave](https://github.com/rakshadharanika/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348380/3d903a98-e95b-4ef5-a500-8fbd73f07b0e)
+
+
+
+
+
+
+
+
+### JK FLIPFLOP:
+
+
+
+
+
+
+
+
+
+![jk wave](https://github.com/rakshadharanika/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348380/984e9a27-984b-4646-92bb-4295c741eb12)
+
+
+
+
+
+
+### SR FLIPFLOP:
+
+
+
+
+
+![sr wave](https://github.com/rakshadharanika/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149348380/e1882f1d-615b-4fe0-97dd-d4bfe3d27d3d)
 
 
 
